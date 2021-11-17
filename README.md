@@ -5,7 +5,7 @@
    "metadata": {},
    "source": [
     "# LetsGrowMore - Nov2021\n",
-    "## Vishal Soni - Data Science Intern\n",
+    "## Akhil Aggarwal - Data Science Intern\n",
     "### Task 2.2 : Prediction Using Decision Tree Classifier\n",
     "### Dataset: https://bit.ly/3kXTdox"
    ]
